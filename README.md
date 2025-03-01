@@ -1,4 +1,4 @@
-# Deployment and Technical Overview of Snowboarding Unity Game
+#  Snowboarding Unity Game ( Deployment and Technical Overview )
 
 ## **1. Deployment Process of this 2D Unity Game**
 
