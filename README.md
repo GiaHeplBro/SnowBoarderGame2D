@@ -38,7 +38,7 @@ The design of this 2D snowboarding game is inspired by classic **endless runners
 - Endless and level-based modes.
 - High-score tracking for replayability.
 
-2. Game Features
+## **2. Game Features**
 
 Core Mechanics:
 
@@ -70,7 +70,7 @@ Longer Levels: Expanded terrain with more diverse challenges.
 
 Multiple Game Modes: Different difficulty settings and challenges.
 
-3. Game Development Process
+## **3. Game Development Process**
 
 Project Setup & Tools Used:
 
@@ -127,13 +127,13 @@ Testing & Debugging:
 
 Playtested controls and adjusted physics for better balance.
 
-4. Deployment & Version Control
+## **4. Deployment & Version Control**
 
 The game is managed using GitHub for version control.
 
 Future plans include deployment on itch.io to allow public access.
 
-5. Future Plans
+## **5. Future Plans**
 
 Refine trick system to allow complex combinations.
 
