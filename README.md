@@ -87,21 +87,30 @@ Folder Structure:
 Contents of the 'Assets' Folder:
 
   Scripts:
+  
         Contains all scripts handling movement, enemy behavior, and UI updates.
+        
         Scripts were initially generated with ChatGPT’s help and later refined through debugging.
+        
   Sounds:
+  
         Contains background music sourced from NoCopyright libraries.
         Music is set to loop.
   Scenes:
+  
         Stores the Main Menu scene and Scene mission.
-    Picture:
+  Picture:
+  
         Contains tag, snow, and backround picture.
-    Pretabs:
+  Pretabs:
+  
         Contains all tab use replay.
-    AssetStore:
+  AssetStore:
+  
         Contains backround picture from asset store.
         Some sprites were sourced from free asset websites, while others were edited in Pain2D.
-    Sprites:
+  Sprites:
+  
     Contains all Sprites to do.
 
 
